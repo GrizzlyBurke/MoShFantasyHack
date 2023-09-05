@@ -1,5 +1,5 @@
 # Mothership 1e Fantasy Hack
-Forked and edited for a Yoon-Suin campaign, WIP.
+
 ## Modified Character Sheet
 
 New 1e character sheet with the class and skill tree tweaks [is available here](MoShFantasyCharacterSheet_v1.1.pdf)
