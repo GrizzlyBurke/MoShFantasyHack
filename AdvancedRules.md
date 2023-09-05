@@ -58,7 +58,7 @@ Spirit Magics draw on your characters connection with the spirit world and requi
 | Name         | Cost                     | Effect        |
 |--------------|--------------------------|---------------|
 | Shift        | Free                     | Telekinetically move an object that weighs less that 5 lbs     |
-| Fall         | 1 Focus                  | Warp the gravity of a creature     |
+| Fall         | 1 Focus                  | Warp the gravity of a creature and choose which way is up or down     |
 | Warp         | 1 Focus  + 1d10 HP       | Bend space time and warp a creature to a new point in space within 60 ft |
 
 ## Decoctions
