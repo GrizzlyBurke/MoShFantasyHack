@@ -50,9 +50,9 @@ Spirit Magics draw on your characters connection with the spirit world and requi
 ### Time
 | Name         | Cost                     | Effect        |
 |--------------|--------------------------|---------------|
-| Replay       | Free                     | Give someone [+] on a check     |
+| Luck         | Free                     | Give someone [+] on a check     |
 | Slow         | 1 Focus                  | Slow the motion of your opponent and make their next attack deal half damage     |
-| Warp         | 1 Focus  + 1d10 HP       | Bend space time and warp a creature back to where it ended its last turn |
+| Replay       | 1 Focus  + 1d10 HP       | Revert a creature back to the state it was 1 round prior |
 
 ### Space
 | Name         | Cost                     | Effect        |
