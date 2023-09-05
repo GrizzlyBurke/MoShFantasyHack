@@ -53,6 +53,7 @@ All class Stats, Saves bonuses, and Trauma responses are the same as before. Cla
 * "Rimwise" is now "Realmwise", but works effectively the same way.
 
 ## Class Skills
+All classes gain 1 Focus when creating a new character.
 
 * Fighter(Marine): is the same as prior
 * Mystc(Android): Magic, Theology, Linguistics, and 1 Expert skill or two Trained Skills
