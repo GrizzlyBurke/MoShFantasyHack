@@ -11,7 +11,7 @@ Elemental Magics draw on your characters connection with the physical world nd r
 | Name         | Cost                     | Effect        |
 |--------------|--------------------------|---------------|
 | Light        | Free                     | Summon a glowing flame in your hands to shed light around you or catch flammable materials on fire     |
-| Scorch       | 1 Focus                  | Channel light into a beam of magical flame that burns your target     |
+| Scorch       | 1 Focus                  | Channel light into a beam of magical flame that burns your target for 2d10 x Focus DMG    |
 | Shimmer      | 1 Focus  + 1d10 HP       | Bathe your enemies in magical flames that grants Combat[+] |
 
 
@@ -19,8 +19,8 @@ Elemental Magics draw on your characters connection with the physical world nd r
 | Name         | Cost                     | Effect        |
 |--------------|--------------------------|---------------|
 | Gust         | Free                     | Blow a gust of wind at any enemy  |
-| Arc          | 1 Focus                  | Charge a creature with electricity that lashes out at the next creature to touch them     |
-| Haste        | 1 Focus  + 1d10 HP       | Conjure the swiftness of the wind and grant anyone the ability to outpace their opponents  |
+| Arc          | 1 Focus                  | Charge a creature with electricity that lashes out at the next creature to touch them for 2d10 x Focus DMG     |
+| Fly          | 1 Focus  + 1d10 HP       | Conjure the swiftness of the wind grant a creature the ability to fly  |
 
 ### Water
 | Name         | Cost                     | Effect        |
@@ -33,7 +33,7 @@ Elemental Magics draw on your characters connection with the physical world nd r
 | Name         | Cost                     | Effect        |
 |--------------|--------------------------|---------------|
 | Speak        | Free                     | Ask any plant or stone for help     |
-| Spike        | 1 Focus                  | Channel your energy into a stone spike that bludgeons your target and moves them 10 ft |
+| Spike        | 1 Focus                  | Channel your energy into a stone spike that bludgeons your target for 1d10 x Focus DMG and moves them 10 ft |
 | Entangle     | 1 Focus  + 1d10 HP       | Conjure forth vines to grab your enemies within 30 ft. They are unable to move until a save at the end of their turn |
 
 ## Spirit Magic
@@ -52,7 +52,7 @@ Spirit Magics draw on your characters connection with the spirit world and requi
 |--------------|--------------------------|---------------|
 | Luck         | Free                     | Give someone [+] on a check     |
 | Slow         | 1 Focus                  | Slow the motion of your opponent and make their next attack deal half damage     |
-| Replay       | 1 Focus  + 1d10 HP       | Revert a creature back to the state it was 1 round prior |
+| Haste        | 1 Focus  + 1d10 HP       | Conjure the swiftness of the wind and grant anyone the ability to outpace their opponents   |
 
 ### Space
 | Name         | Cost                     | Effect        |
