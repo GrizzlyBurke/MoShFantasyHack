@@ -1,6 +1,65 @@
-## Elemental Magic
+## Spellcasting
+Magic can be obtained through ancient tomes, mystical beings, or studied teachers. Gaining the affinity for any source of magic provides a cantrip that can be cast at any time and a variety of spells that consume your Focus (and possible health). Typically, effects will:
+- deal damage equal to 2d10 x Focus spent on casting the effect
+- target creatures equal to the Focus spent casting the effect
+- last for a duration of 10 minutes x Focus spent casting the effect
 
-## Arcane Magic
+## Elemental Magic
+Elemental Magics draw on your characters connection with the physical world nd require a successful Body Save to cast.
+
+### Fire
+| Name         | Cost                     | Effect        |
+|--------------|--------------------------|---------------|
+| Light        | Free                     | Summon a glowing flame in your hands to shed light around you or catch flammable materials on fire     |
+| Scorch       | 1 Focus                  | Channel light into a beam of magical flame that burns your target     |
+| Shimmer      | 1 Focus  + 1d10 HP       | Bathe your enemies in magical flames that grants Combat[+] |
+
+
+### Air
+| Name         | Cost                     | Effect        |
+|--------------|--------------------------|---------------|
+| Gust         | Free                     | Blow a gust of wind at any enemy  |
+| Arc          | 1 Focus                  | Charge a creature with electricity that lashes out at the next creature to touch them     |
+| Haste        | 1 Focus  + 1d10 HP       | Conjure the swiftness of the wind and grant anyone the ability to outpace their opponents  |
+
+### Water
+| Name         | Cost                     | Effect        |
+|--------------|--------------------------|---------------|
+| Flow         | Free                     | Stop, move, or freeze a cubic yard of liquid  |
+| Sleet        | 1 Focus                  | Summon a winter storm to freeze a 30 ft area causing objects to slide, become stuck, or slip |
+| Freeze       | 1 Focus  + 1d10 HP       | Encase a creature in ice causing it to be frozen in place |
+
+### Earth
+| Name         | Cost                     | Effect        |
+|--------------|--------------------------|---------------|
+| Speak        | Free                     | Ask any plant or stone for help     |
+| Spike        | 1 Focus                  | Channel your energy into a stone spike that bludgeons your target and moves them 10 ft |
+| Entangle     | 1 Focus  + 1d10 HP       | Conjure forth vines to grab your enemies within 30 ft. They are unable to move until a save at the end of their turn |
+
+## Spirit Magic
+
+Spirit Magics draw on your characters connection with the spirit world and require a successful Sanity Save to cast.
+
+### Soul
+| Name         | Cost                     | Effect        |
+|--------------|--------------------------|---------------|
+| Detect       | Free                     | Sense magical and spritiual energies nearby    |
+| Command      | 1 Focus                  | Wrack an enemy's being and compel compel to perform a one word command     |
+| Charm        | 1 Focus  + 1d10 HP       | Warp the target's reality and make them believe they are friends with you until proven otherwise |
+
+### Time
+| Name         | Cost                     | Effect        |
+|--------------|--------------------------|---------------|
+| Replay       | Free                     | Give someone [+] on a check     |
+| Slow         | 1 Focus                  | Slow the motion of your opponent and make their next attack deal half damage     |
+| Warp         | 1 Focus  + 1d10 HP       | Bend space time and warp a creature back to where it ended its last turn |
+
+### Space
+| Name         | Cost                     | Effect        |
+|--------------|--------------------------|---------------|
+| Shift        | Free                     | Telekinetically move an object that weighs less that 5 lbs     |
+| Fall         | 1 Focus                  | Warp the gravity of a creature     |
+| Warp         | 1 Focus  + 1d10 HP       | Bend space time and warp a creature to a new point in space within 60 ft |
 
 ## Decoctions
 
