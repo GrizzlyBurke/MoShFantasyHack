@@ -1,6 +1,6 @@
 ## Elemental Magic
 
-## Arcane Magick
+## Arcane Magic
 
 ## Decoctions
 
