@@ -1,3 +1,7 @@
+## Elemental Magic
+
+## Arcane Magick
+
 ## Decoctions
 
 Decoctions are advanced alchemical reagents, usually stored in a glass bauble, jar, or ampoule. Typically a liquid or powder, they can be used as powerful tools to aid in the field. Usually the decoctions are drank to imbibe the effects, though those that apply powerful negative effects can also be thrown at a range of "Nearby" and smashed with a combat check. A successful hit will cause the decoction to apply its affect to whatever target was hit wit hit. You may also add them to drinks or food to relative success... depending on the decoction effect, of course.
