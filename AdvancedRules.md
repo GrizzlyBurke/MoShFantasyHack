@@ -44,7 +44,7 @@ Spirit Magics draw on your characters connection with the spirit world and requi
 | Name         | Cost                     | Effect        |
 |--------------|--------------------------|---------------|
 | Detect       | Free                     | Sense magical and spritiual energies nearby    |
-| Command      | 1 Focus                  | Wrack an enemy's being and compel compel to perform a one word command     |
+| Command      | 1 Focus                  | Wrack an enemy's being and compel them to perform a one word command     |
 | Charm        | 1 Focus  + 1d10 HP       | Warp the target's reality and make them believe they are friends with you until proven otherwise |
 
 #### Time
