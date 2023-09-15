@@ -11,8 +11,8 @@ New 1e character sheet with the class and skill tree tweaks [is available here](
 You gain 1 Experience(EXP) for every 1000 gp you collect from your adventures, travels, or experiences. Spending your experience requires a week or more of downtime.
 
 - 1 EXP increase a stat or save by 5
-- 1 EXP train a skill
-- 2 EXP to add +1 to your total Wounds
+- 2 EXP train a skill
+- 3 EXP to add +1 to your total Wounds
 
 
 ## Status Effects
@@ -112,45 +112,6 @@ All classes gain Focus equal to their starting Wounds when creating a new charac
 | 32 | Tobacco and Pipe                           | 66 | Pictorial Pornography, Dogeared, Well-thumbed      | 99 | Pamphlet: "The Relic of Flesh"              |
 | 33 | Pills: Areca Nut                           |    |                                                    |    |                                             |
 
-## Titles (Replaces "Patches")
-
-|    |                         |    |                                    |    |                         |
-|----|-------------------------|----|------------------------------------|----|-------------------------|
-| 00 | The Unfuckable          | 34 | the Furious                        | 67 | Bell-Ringer             |
-| 01 | Hunter of Wolves        | 35 | Silver-Swallow                     | 68 | Battleborn              |
-| 02 | The Turtle-Hide         | 36 | Butcher                            | 69 | The Fearsome Faun       |
-| 03 | Bloodied-Back           | 37 | the Bronzed                        | 70 | Of Forgotten Hope       |
-| 04 | of the Salt             | 38 | Honeypot                           | 71 | Of Endless Eminence     |
-| 05 | Tamer of Doves          | 39 | Tincutter                          | 72 | The Imbalanced          |
-| 06 | of the Earth            | 40 | the Hammer                         | 73 | The Plague-Prayer       |
-| 07 | The Lion                | 41 | Fur-Fanged                         | 74 | Weasel-Winner           |
-| 08 | Rider of Sea            | 42 | of the Mountains                   | 75 | The Impish              |
-| 09 | Cold Dead Body          | 43 | the Finder                         | 76 | Crab-Cracker            |
-| 10 | Winter-Storm            | 44 | Truth-Hunter                       | 77 | Tree Singer             |
-| 11 | Of the Sands            | 45 | the All-Seeing                     | 78 | Stone-Stabber           |
-| 12 | Sharpened Knack         | 46 | the Ever-Parched                   | 79 | Backbreaker             |
-| 13 | Feller of Giants        | 47 | Spider Wrestler                    | 80 | The Mudless             |
-| 14 | Frost-Bitten            | 48 | the Seeker                         | 81 | Brackish-Brawn          |
-| 15 | Sun-Kissed              | 49 | Snake Whisperer                    | 82 | Of Veil and Virtue      |
-| 16 | the Bread-Weaver        | 50 | the Venomous                       | 83 | Crow Caller             |
-| 17 | Goblin-Fucker           | 51 | the Snowtrodden                    | 84 | The Endless Executioner |
-| 18 | the Bear-Dog            | 52 | Falcon-Rider                       | 85 | Wing-Winder             |
-| 19 | Kelpie-Killer           | 53 | the Fallen                         | 86 | The Shell-Sent          |
-| 20 | the Unicorn             | 54 | Golden Gale                        | 87 | Blood Drinker           |
-| 21 | Chupacabra              | 55 | Gem Jailer                         | 88 | The Fish-Fear           |
-| 22 | the Bogeyman            | 56 | of the Sea                         | 89 | Of Merciful Might       |
-| 23 | the Fox-Fenned          | 57 | the Seabreeze                      | 90 | Death Dealer            |
-| 24 | Dvergbane               | 58 | the Forgotten                      | 91 | Of the Red Sea          |
-| 25 | the Minotaur            | 59 | the Suitor Slayer                  | 92 | The Wicked Woe          |
-| 26 | Satyr-Slayer            | 60 | Banshee Brawler                    | 93 | Storm-Soured            |
-| 27 | the Chimera             | 61 | Lambaster of Lichs                 | 94 | Rabbit Runner           |
-| 28 | "Just my name will do." | 62 | the Shape-Shifter                  | 95 | Of Jaded Judgement      |
-| 29 | of Ever-Shine           | 63 | Mermaid-Milker                     | 96 | The Crooked Courage     |
-| 30 | Lightfoot               | 64 | of the North (factually incorrect) | 97 | Sentry Steadied         |
-| 31 | the Fierce              | 65 | Shedim-Shucker                     | 98 | Of Midnight Music       |
-| 32 | Bitch-Biter             | 66 | of the Clamshell                   | 99 | Silent Celebration      |
-| 33 | Elken                   |    |                                    |    |                         |
-
 ## Loadouts
 
 <table class="tg">
@@ -162,70 +123,46 @@ All classes gain Focus equal to their starting Wounds when creating a new charac
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0pky">D10</td>
+    <td class="tg-0pky">D6</td>
     <td class="tg-c3ow">Loadout</td>
-    <td class="tg-0pky">D10</td>
+    <td class="tg-0pky">D6</td>
     <td class="tg-c3ow">Loadout</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">0</td>
-    <td class="tg-0pky">Tank Top and Canvas Pants (AP 1),<br>Slicing (Light) Melee, Elixir Decoction(1)</td>
-    <td class="tg-c3ow">0</td>
-    <td class="tg-0pky">Leather Armor (AP 5), Detection Amulet,<br>Longbow, Normal Arrows (12), Elixir</td>
   </tr>
   <tr>
     <td class="tg-c3ow">1</td>
-    <td class="tg-0pky">Full Plate (AP 10), Ignite Decoction(1),<br>Blunt (Light) Melee</td>
+    <td class="tg-0pky">Half Plate (AP 7), Journal, <br>Fine Inks, Exotic (Medium), Small Estate</td>
     <td class="tg-c3ow">1</td>
-    <td class="tg-0pky">Leather Armor (AP 5), Detection Amulet,<br>Composite Shortbow, Normal Arrows(10)<br>Satchel, Brace Rune (1)</td>
+    <td class="tg-0pky">Plainclothes (AP 1), Blunt (Medium), <br>Dried Mushrooms, Animal Musk, Small Pet</td>
   </tr>
   <tr>
     <td class="tg-c3ow">2</td>
-    <td class="tg-0pky">Half Plate (AP 7), Longbow, <br>Arrows (Normal) (12),<br>Rucksack, Camping Gear</td>
+    <td class="tg-0pky"> Half Plate (AP 7), Longbow, Arrows (Normal) (12),<br>Slicing (Light), Rucksack, Camping Gear</td>
     <td class="tg-c3ow">2</td>
-    <td class="tg-0pky">Leather Armor (AP 5), Detection Amulet,<br>Slicing (Medium) Melee, Ignite Rune (1)</td>
+    <td class="tg-0pky"> Leather Armor (AP 5), Ritual Knife (Slicing (Light)),<br>Book of Forbidden Knowledge, Blood vials, First Aid Kit</td>
   </tr>
   <tr>
     <td class="tg-c3ow">3</td>
-    <td class="tg-0pky">Half Plate (AP 7), Composite Shortbow,<br>Arrows (Normal) (12), Goggles</td>
+    <td class="tg-0pky">Leather Armor (AP 5), Composite Shortbow,<br>Arrows (Normal) (12), Slicing (Light)<br>Hunting Dog, Leash</td>
     <td class="tg-c3ow">3</td>
-    <td class="tg-0pky">Leather Armor (AP 5), Detection Amulet,<br>Slicing (Heavy) Melee, Defend Rune (1),<br>Rations (3)</td>
+    <td class="tg-0pky">Leather Armor (AP 5), Detection Amulet,<br>Slicing (Medium), Rope, Climbing Gear, <br> Thief Tools, Treasure Map </td>
   </tr>
   <tr>
     <td class="tg-c3ow">4</td>
-    <td class="tg-0pky">Half Plate (AP 7), Shortbow,<br>Arrows (Normal) (12), Spyglass</td>
+    <td class="tg-0pky">Full Plate (AP 10), Slicing (Medium), Shield (Light),<br> Spyglass, Territory Map, Horn</td>
     <td class="tg-c3ow">4</td>
-    <td class="tg-0pky">Half Plate (AP 7), Detection Amulet, <br>Blunt (Medium) Melee, Hawk</td>
+    <td class="tg-0pky">Fine Robes (AP 2), Crafters Tools, Alchemical Reagents Bag,<br> Slicing (Light), Book of Animal Part Uses, Hand Cart </td>
   </tr>
   <tr>
     <td class="tg-c3ow">5</td>
-    <td class="tg-0pky">Half Plate (AP 7), Exotic (Light) Melee,<br>Rations (7)</td>
+    <td class="tg-0pky">Full Plate (AP 10), Blunt (Heavy),<br>Rations (7), Drinking Horn, Rope</td>
     <td class="tg-c3ow">5</td>
-    <td class="tg-0pky">Half Plate (AP 7), Detection Amulet,<br>First Aid Kit, Spyglass, Exotic (Light) Melee</td>
+    <td class="tg-0pky">Peasant Clothes (AP 1), Detection Amulet,<br>First Aid Kit, Spiritual Staff (Blunt (Medium)), Ritual Tablets</td>
   </tr>
   <tr>
     <td class="tg-c3ow">6</td>
-    <td class="tg-0pky">Fatigues (AP 2), Composite Longbow,<br>Arrows (Normal) (10), Arrows (Blunt) (1),<br>Hunting Dog, Leash</td>
+    <td class="tg-0pky">Leather Armor (AP 5), Blunt (Medium),<br> Detection Amulet, Pamphlets </td>
     <td class="tg-c3ow">6</td>
-    <td class="tg-0pky">Half Plate (AP 7), Detection Amulet,<br>Composite Longbow, Normal Arrows(10),<br>Rope(50m)</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">7</td>
-    <td class="tg-0pky">Fatigues (AP 2), Composite Longbow,<br>Arrows (Normal) (6), Ignite Decoction</td>
-    <td class="tg-c3ow">7</td>
-    <td class="tg-0pky">Tank Top and Canvas Pants (AP 1),<br>Detection Amulet, Slicing (Heavy) Melee,<br>Explosive Decoction</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">8</td>
-    <td class="tg-0pky">Combat Uniform (AP 1),<br>Composite Shortbow, Arrows (Normal) (12),<br>Arrows (Heavy) (6), Challenge Coin</td>
-    <td class="tg-c3ow">8</td>
-    <td class="tg-0pky">Full Plate (AP 10), Detection Amulet,<br>Shield (Light), Blunt (Light) Melee,<br>Elixir(1)</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">9</td>
-    <td class="tg-0pky">Full Plate (AP 10), Slicing (Heavy) Melee,<br>Rations (1)</td>
-    <td class="tg-c3ow">9</td>
-    <td class="tg-0pky">Full Plate (AP 10), Detection Amulet,<br>Numbing Decoction, Shortbow,<br>Normal Arrows (6), Whistling Arrow(1),<br>Dyed Arrow(1)</td>
+    <td class="tg-0pky">Finery (AP 2), Untranslated Scrolls, <br> Common to Arcane translation book, <br>Research Journal, Noble Patronage</td>
   </tr>
   <tr>
     <td class="tg-0pky"></td>
@@ -238,71 +175,48 @@ All classes gain Focus equal to their starting Wounds when creating a new charac
     <td class="tg-c3ow" colspan="2">Traveler Loadouts</td>
   </tr>
   <tr>
-    <td class="tg-0pky">D10</td>
+    <td class="tg-0pky">D6</td>
     <td class="tg-c3ow">Loadout</td>
-    <td class="tg-0pky">D10</td>
+    <td class="tg-0pky">D6</td>
     <td class="tg-c3ow">Loadout</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">0</td>
-    <td class="tg-0pky">Plainclothes (AP 1), Ignite Decoction,<br>Frost Decoction, Elixir</td>
-    <td class="tg-c3ow">0</td>
-    <td class="tg-0pky">Finery (AP 2),&nbsp;&nbsp;Instrument, Lockpick Set, <br>Slicing (Light) Melee, Elixir(2)</td>
   </tr>
   <tr>
     <td class="tg-c3ow">1</td>
-    <td class="tg-0pky">Finery (AP 2), Elixir(3), Brace Rune(1),<br>Ignite Rune(3), Poison Decoction(1)</td>
+    <td class="tg-0pky">Leather Armor (AP 5), Framed Backpack, Camping Gear<br> Field Notes, Animal Trap, Slicing (Light),<br> Wilderness Map, Compass</td>
     <td class="tg-c3ow">1</td>
-    <td class="tg-0pky">Magewear (AP 3), Instrument, <br>Illuminating Decoctions (3), Rope (50m)</td>
+    <td class="tg-0pky">Adventurer Garb (AP 3), Instrument, <br>Slicing (Medium), Feathered Hat, Costume, Makeup</td>
   </tr>
   <tr>
     <td class="tg-c3ow">2</td>
-    <td class="tg-0pky">Finery (AP 2), First Aid Kit,<br>Rations (3), Exotic (Light) Melee,<br>Emergency Flair</td>
+    <td class="tg-0pky">Finery (AP 2), Telescope, Star Chart<br>Tripod (Blunt (Medium)), Research Notes</td>
     <td class="tg-c3ow">2</td>
-    <td class="tg-0pky">Finery (AP 2), Instrument, <br>Emergency Flair (1), Rations (3),<br>Blunt (Light) Melee<br></td>
+    <td class="tg-0pky">Finery (AP 2), Weighted Scales, Wagon, Horse<br> 200gp of trade goods</td>
   </tr>
   <tr>
     <td class="tg-c3ow">3</td>
-    <td class="tg-0pky">Plainclothes (AP 1), Rope(50m),<br>Rucksack, Ignite Decoction(1),<br>Shortbow, Normal Arrows(6)</td>
+    <td class="tg-0pky">Plainclothes (AP 1), University Access,<br> Textbooks on the Elemental Spirits,<br>Rucksack, Letter Opener (Slicing(Light))</td>
     <td class="tg-c3ow">3</td>
-    <td class="tg-0pky">Silks (AP 2), Instrument,<br>Paralyze Decoctions (2), Shortbow,<br>Arrows (Normal) (12)</td>
+    <td class="tg-0pky">Apron (AP 1), Hammer (Blunt(Medium)), Crafters Tools<br> Guild Membership, Hand Cart, A Mentor's Materpiece</td>
   </tr>
   <tr>
     <td class="tg-c3ow">4</td>
-    <td class="tg-0pky">Finery (AP 2), Paralyze Rune(1), <br>Defend Rune(2), Seek Decoction(1)</td>
+    <td class="tg-0pky">Finery (AP 2), Writing Kit, Book of Family Histories<br> Noble Patronage, Bureaucratic Seal</td>
     <td class="tg-c3ow">4</td>
-    <td class="tg-0pky">Plainclothes (AP 1), Instrument,<br>Longbow, Arrows (Normal) (10),<br>Arrow (Dyed) (1)</td>
+    <td class="tg-0pky">Plainclothes (AP 1), Slicing (Light), Smuggler's Bag, <br>1000gp Debt, Priceless Heirloom</td>
   </tr>
   <tr>
     <td class="tg-c3ow">5</td>
-    <td class="tg-0pky">Fatigues (AP 2), Slicing (Medium) Melee,<br>Ignite Rune(1), Frost Rune(1)</td>
+    <td class="tg-0pky">Leather Armor (AP 5), Crafters Tools, Monkey Wrench (Blunt (Medium))<br> Clockwork Creation, Oil Can, Matches</td>
     <td class="tg-c3ow">5</td>
-    <td class="tg-0pky">Fatigues (AP 2), Instrument,<br>Slicing (Medium) Melee, Poison Rune (1)</td>
+    <td class="tg-0pky">Plain Clothes (AP 1), Instrument,<br>Slicing (Medium), The Holy Book, Pamphlets, <br>Saintly Relic</td>
   </tr>
   <tr>
     <td class="tg-c3ow">6</td>
-    <td class="tg-0pky">Finery (AP 2), Elixir(1), Spyglass,<br>Repel Rune(2), Lockpick set</td>
+    <td class="tg-0pky">Finery (AP 2), First Aid Kit, Surgeon Tools (Slicing(Light))<br> University Access, Anatomy Texts, Stretcher  </td>
     <td class="tg-c3ow">6</td>
-    <td class="tg-0pky">Plainclothes (AP 1), Instrument,<br>Lockpick Set, Poison Decoction (1),<br>Rucksack, Spyglass</td>
+    <td class="tg-0pky">Finery (AP 2), Noble Decree, Noble Patronage<br> Bodyguard (Slicing (Medium)), Fine Camping Supplies </td>
   </tr>
-  <tr>
-    <td class="tg-c3ow">7</td>
-    <td class="tg-0pky">Plainclothes (AP 1), Blunt (Heavy) Melee,<br>Defend Rune(3), Elixir</td>
-    <td class="tg-c3ow">7</td>
-    <td class="tg-0pky">Leather Armor (AP 5), Instrument, <br>Composite Longbow, Arrows (Normal) (12)</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">8</td>
-    <td class="tg-0pky">Magewear (AP 3) Blunt (Medium) Melee,<br>Seek Rune(1), Communication Stone (1),<br>Illuminating Decoction(5)</td>
-    <td class="tg-c3ow">8</td>
-    <td class="tg-0pky">Plainclothes (AP 1), Instrument, <br>First Aid Kit, Sample Kit, Rations (7),<br>Emergency Flair (1)</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">9</td>
-    <td class="tg-0pky">Plainclothes (AP 1), Slicing (Light) Melee,<br>Numbing Decoction(2), Rucksack,<br>Sample Kit</td>
-    <td class="tg-c3ow">9</td>
-    <td class="tg-0pky">Finery (AP 2), Instrument,<br>Illuminating Decoction (2), Rope (50m)<br>Assorted Tools</td>
-  </tr>
+ 
 </tbody>
 </table>
 

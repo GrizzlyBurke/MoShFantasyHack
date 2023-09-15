@@ -51,9 +51,9 @@ Optional: You may ignore ammo requirements for Regular Arrows, and only track am
 | Armor          |  Cost  | AP |           Special          |
 |----------------|:------:|:--:|:--------------------------:|
 | Plainclothes   |  20gp  |  1 |                            |
-| Magewear       | 1000gp |  3 | [+] on Intelligence Checks |
 | Finery         | 2000gp |  2 |                            |
-| Leather        |  500gp |  5 |     [+] on Speed Checks    |
+| Adventurer Garb| 200gp  |  3 |                            |
+| Leather        |  500gp |  5 |         |
 | Half-Plate     |  750gp |  7 |                            |
 | Full-Plate     | 1500gp | 10 |     [-] on Speed Checks    |
 | Shield (Light) | 250gp  | 2  |                            |
@@ -72,9 +72,9 @@ Optional: You may ignore ammo requirements for Regular Arrows, and only track am
 | First Aid Kit            |   75gp   | An assortment of bandages and treatments to help stop bleeding, bandage cuts, and treat other minor injuries.                                                                                                                                                                    |
 | Detection Amulet         |   20gp   | Detects nearby immense levels of magic that are threatening and quietly vibrates.                                                                                                                                                                                                |
 | Lockpick Set             |   40gp   | You're typical set of quality lockpicks, can be used to pick any mechanic locks.                                                                                                                                                                                                 |
-| Communication Stone (x1) |   65gp   | Pocket sized stone that when worn on ones person, allows you to telepathically communicate with anyone in a 1 mile radius who also possesses a similar stone that has been attuned to yours. Multiple stones may be attuned to create a network that allows group communication. |
+| Crafters Tools |   500gp   | Specialized, fine tools and materials to create above average creations. E.g. tailoring, blacksmithing, jeweling, etc. |
 | Rations (x7)             |   70gp   | Self-contained, individual field rations in lightweight packaging. Each one has sufficient sustenance for a single person for one day (does not include water).                                                                                                                  |
 | Rope (50m)               |   10gp   | General purpose rope.                                                                                                                                                                                                                                                            |
 | Rucksack                 |   50gp   | Large durable waterproof backpack                                                                                                                                                                                                                                                |
 | Sample Kit               |   250gp  | Used to research flora and fauna in the field. Can take vital signs, DNA samples ,and collect other data on foreign material. Results may not be instantaneous and may require a lab for complete analysis.                                                                      |
-| Water Filtration Kit     |   15gp   | Small kit that can be used to cleanse water and kill any disease. Contains enough uses to cleanse up to 50 liters of water.                                                                                                                                                      |
+| Writing tools     |   15gp   | Small kit that can be used take notes or draft messages on paper.                                                                                                                                                      |
