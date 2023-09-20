@@ -10,9 +10,51 @@ New 1e character sheet with the class and skill tree tweaks [is available here](
 
 You gain 1 Experience(EXP) for every 1000 gp you collect from your adventures, travels, or experiences. Spending your experience requires a week or more of downtime.
 
-- 1 EXP increase a stat or save by 5
-- 2 EXP train a skill
+- 1 EXP increase a stat by 5
+- 2 EXP gain a skill on an unlocked path or start a new path
 - 3 EXP to add +1 to your total Wounds
+
+### Taking Downtime
+
+During any downtime, you make choose to carouse the town you are safely resting in. This relieves Stress and allows you to convert Stress into improved Saves for your character. Maximum Stress converted is calculated using the settlement table below:
+| Settlement Type | Monetary Cost (gp) | Maximum Stress Converted |
+|-----------------|--------------------|--------------------------|
+| Camp            | Free               | 0                        |
+| Village         | 1d10 x 50 gp       | 1d5                      |
+| Town            | 1d10 x 100 gp      | 1d10                     |
+| City            | 1d10 x 200 gp      | 2d10                     |
+
+Make a Sanity Save:
+- On Success: Convert some stress into better saves. Roll the dice associated with the settlement type and add the total to your chosen saves. Relieve all stress.
+- On Critical Success: Convert the maximum stress into better saves. Add the maximum value of the settlement's die to your saves. Relieve all Stress.
+- On Fail: Do not convert any stress into saves, relieve all stress and begin at 1 Stress. 
+- On Critical Fail: Convert and relieve no Stress. Make a Panic Check.
+ 
+ If you failed your Downtime check, roll on the following Carousing table to determine what mishap occured:
+
+| d20 | Carousing Mishaps |
+|-----:|------------------|
+| 1    | You made a public fool of yourself. |
+| 2    | Take 1 wound from a fight. |
+| 3    | Pay d100gp due to fines. |
+| 4    | You are engaged to be married. |
+| 5    | Lose d1000gp from gambling. |
+| 6    | Groupies follow you everywhere. |
+| 7    | You’ve made an enemy. |
+| 8    | You have an ugly, prominent tattoo. |
+| 9    | Hangover: -5 on all tests today. |
+| 10   | You have joined a local faction |
+| 11   | Robbed: Lose all remaining coin. |
+| 12   | You wake up in prison. |
+| 13   | The building is on fire! |
+| 14   | You’re expected to complete a mission due to your boasts. |
+| 15   | A duel is scheduled for the next dawn. |
+| 16   | You signed a shady contract. |
+| 17   | A stranger’s corpse is on the floor. |
+| 18   | A faction hates you |
+| 19   | All your belongings have been stolen. |
+| 20   | You meet a new companion who wants to join your party. |
+
 
 
 ## Status Effects
@@ -37,7 +79,15 @@ The entity is heavily frozen and must succeed on a Body Save (one per round) to 
 
 Typically via a form of Dye, others have [+] on attempts to track the Marked entity.
 
-## Classes
+### Charmed
+
+Entity is magically under the impression that the applier is a close friend. Entity must make a Sanity Save when the effect is applied. This effect is permanent until some scenario causes the entity to distrust the applier.
+
+---
+
+## Changes to MoSh
+
+### Classes
 
 All class Stats, Saves bonuses, and Trauma responses are the same as before. Classes are merely renamed
 * Marine is now Fighter.
@@ -45,7 +95,7 @@ All class Stats, Saves bonuses, and Trauma responses are the same as before. Cla
 * Scientist is now Expert.
 * Teamster is now Traveler.
 
-## Skills
+### Skills
 
 * "Exobiology" keeps its name but now also encompasses the biology of magical beasts.
 * "Planetology" is now "Geography", which encompasses the macro knowledge of the world, countries, and locations of landmarks
@@ -64,7 +114,7 @@ All class Stats, Saves bonuses, and Trauma responses are the same as before. Cla
 * "Firearms" is now "Archery".
 * "Rimwise" is now "Realmwise", but works effectively the same way.
 
-## Class Skills
+### Class Skills
 All classes gain Focus equal to their starting Wounds when creating a new character.
 
 * Fighter(Marine): is the same as prior

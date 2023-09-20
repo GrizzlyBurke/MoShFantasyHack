@@ -34,7 +34,7 @@ Assassins know when and where to strike at a foe, granting them the upper hand.
 ### Ki Warrior
 A Ki Warrior can channel their energy into their body and perform unnatural feats.
 - **Catch:** You can catch missles and throw them back at opponents. You may do this a number of times equal to your Wounds per combat. 
-- **Acrobat:** As part of your Ki training, you can balance and jump on nearly any object and you can fight in the dark or while blinded.
+- **Acrobat:** As part of your Ki training, you have great control over your body. You can balance and jump on nearly any object and you can fight in the dark or while blinded.
 
 ### Shield Master
 You become a master of drawing attacks and absorbing hits.
@@ -44,7 +44,7 @@ You become a master of drawing attacks and absorbing hits.
 ### Berserker
 Berserkers may fall into a rage, losing care for the world around them.
 - **Frenzy:** You may enter a frenzy taking half DMG from all sources.
-- **Empty Mind:** You cannot be entranced while frenzied
+- **Empty Mind:** You cannot be mind controlled while frenzied, but any spellcasting is done at [-]
 - **Rend:** While frenzied, your attacks deal double DMG to enemy AP.
 
 ### Sharp Shooter
