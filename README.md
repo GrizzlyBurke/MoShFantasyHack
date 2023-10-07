@@ -15,4 +15,4 @@ Additional rules for Runes, Enchantments, and Decoctions are located in [Advance
 
 ## Misc
 
-This content was forked and altered from SteffenBlake's [gist](https://gist.github.com/SteffenBlake/60d344500c76c18adda4ea99c074a21d) 
+This content was forked and altered from SteffenBlake's [gist](https://gist.github.com/SteffenBlake/60d344500c76c18adda4ea99c074a21d)
