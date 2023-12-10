@@ -98,7 +98,7 @@ Spirit Magics draw on your characters connection with the spirit world and requi
 | Name            | Effect        |
 |-----------------|---------------|
 | Shift           | Use your mind to telekineticically move a small object with some speed|
-| Words of Power  | Warp, Void, Distortion, Dream |
+| Words of Power  | Warp, Void, Distortion, Dream, Wave |
 
 #### Nature
 | Name            | Effect        |
