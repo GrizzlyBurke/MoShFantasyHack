@@ -1,6 +1,8 @@
 # Magical Styles
 ## Spellcasting
-Gaining the affinity for any source of magic provides a cantrip that can be cast at any time and a collection of "Words of Power" you can use to augment your powers. Typically, effects will do one or a combination of the following:
+Gaining the affinity for any source of magic provides a cantrip that can be cast at any time and a collection of "Words of Power" you can use to augment your powers. When you gain access to magical powers, you may roll 2 x WOUNDS each morning for formulae you channel each day.
+
+Typically, effects will do one or a combination of the following:
 - deal damage equal to 4d10 x d10 HP spent on casting the effect
 - target creatures equal to the d10 HP spent casting the effect
 - last for a duration of 10 minutes x d10 HP spent casting the effect
@@ -9,7 +11,7 @@ Once a spell is cast, make the appropriate save to determine if you have become 
 
 Choosing your magical effects can be done by combining a Word of Power in the following formulas:
 
-|1d4 | Formulas | 
+|1d4 | Formulas (2d6 per effect) | 
 |----|----------|
 | 1  | Physical Effect + Word of Power |
 | 2  | Ethereal Effect + Word of Power |
@@ -18,12 +20,14 @@ Choosing your magical effects can be done by combining a Word of Power in the fo
 
 |        | Physical Effect |                   | |                | Ethereal Effect|                |
 |:-------------:|:------------:|:-------------:|-|:--------------:|:--------------:|:--------------:|
+| 1 | 2 | 3 | | 1 | 2 | 3 |
 |   Animating   |  Attracting  |  Binding      | |   Avenging     |   Banishing    |   Bewildering  |
 | Blossoming   | Consuming   | Creeping        | |    Blinding     |    Charming     |    Communicating |
 | Crushing       | Diminishing | Dividing      | |   Compelling   |   Concealing   |   Deafening    |
 | Duplicating   | Enveloping | Expanding       | |   Deceiving    |   Deciphering  |   Disguising    |
 | Fusing          | Grasping    | Hastening    | |   Dispelling   |   Emboldening |   Encoding    |
 | Hindering     | Illuminating| Imprisoning    | |   Energizing  |   Enlightening |   Enraging   |
+| 4 | 5 | 6 || 4 | 5 | 6
 | Levitating     | Opening      | Petrifying   | |   Excruciating |   Foreseeing  |   Intoxicating |
 | Phasing        | Piercing     | Pursuing     | |   Maddening   |   Mesmerizing |   Mindreading |
 | Reflecting    | Regenerating| Rending        | |   Nullifying    |   Paralyzing   |   Revealing    |
@@ -34,12 +38,14 @@ Choosing your magical effects can be done by combining a Word of Power in the fo
 
 |              | Physical Form |              | |              | Ethereal Form |              |
 |:------------:|:-------------:|:------------:|-|:------------:|:-------------:|:------------:|
+| 1 | 2 | 3 | | 1 | 2 | 3 |
 |   Altar      |   Armor     |   Arrow        | |   Aura       |   Beacon      |   Beam       |
 |    Beast     |    Blade    |   Cauldron     | |   Blast      |   Blob        |   Bolt       |
 |    Chain     |  Chariot    |     Claw       | |   Bubble     |   Call        |   Cascade    |
 |    Cloak     |  Colossus   |    Crown       | |   Circle     |   Cloud       |   Coil       |
 | Elemental  |    Eye      |  Fountain        | |   Cone       |   Cube        |   Dance      |
 |     Gate     |   Golem     |   Hammer       | |   Disk       |   Field       |   Form       |
+| 4 | 5 | 6 || 4 | 5 | 6
 |     Horn     |    Key      |     Mask       | |   Gaze       |   Loop        |   Moment     |
 |  Monolith   |     Pit      |   Prison       | |   Nexus      |   Portal      |   Pulse      |
 |  Sentinel   |  Servant   |   Shield         | |   Pyramid    |   Ray         |   Shard      |
