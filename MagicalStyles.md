@@ -1,13 +1,21 @@
 # Magical Styles
 ## Spellcasting
-Gaining the affinity for any source of magic provides a cantrip that can be cast at any time and a collection of "Words of Power" you can use to augment your powers. When you gain access to magical powers, you may roll an amount equal to your level each morning for the formulae you channel each day. To cast a spell, choose your formula, propose its effect, and select a number of d10s to sacrifice to channel the power.
+Gaining the affinity for any source of magic provides a cantrip that can be cast at any time and a collection of "Words of Power" you can use to augment your powers. When you gain access to magical powers, you gain a number of Spell Points (SP) equal to ``LEVEL + WOUNDS`` and you may use these to case your spells.. To cast a spell, choose your formula, propose its effect, and select a number of Spell Points (SP) to sacrifice to channel the power.
 
-Typically, effects will do one or a combination of the following:
-- deal damage equal to 4d10 x d10 HP spent on casting the effect
-- target creatures equal to the d10 HP spent casting the effect
-- last for a duration of 10 minutes x d10 HP spent casting the effect
+Spells typically cause a single effect, warping reality or dealing 4d10 damage to a single target. Status effect style spells affect a single target for 10 minutes.
 
-Once a spell is cast, make the appropriate save to determine if you have become Spellburned and lose your access to Words of Power for the day.
+Your spell may deal damage or affect a creature in a particular way, but additional damage, targets, or duration can be determined by allocating the addition SP as described below:
+
+- deal damage equal to 2d10 x SP spent on casting the effect
+- target one additional creature per SP used past the first
+- last for a duration of 10 minutes x SP spent casting the effect
+
+Once a spell is cast, make the appropriate save to determine if you have become Spellburned and lose your access to that particular Word of Power for the day.
+
+Sometimes a character may wish to cast a spell of great power or a spell after they have exhausted their safe magic energy for the day. In this case, you may do the following:
+- Spend 1d10 HP per SP you wish to summon (number of d10s must be chosen before rolling).
+- Cast your spell as normal with your bonus SP assigned as you wish.
+- Roll your appropriate save for your magic. If you fail, you lose spellcasting until your fully rest.
 
 Choosing your magical effects can be done by combining a Word of Power in the following formulas:
 
