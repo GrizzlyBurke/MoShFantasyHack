@@ -2,35 +2,46 @@
 
 ## Modified Character Sheet
 
-New 1e character sheet with the class and skill tree tweaks [is available here](MoShFantasyCharacterSheet_v1.1.pdf)
+New 1e character sheet with the class and skill tree tweaks [is available here](MoShFantasyCharacterSheet_v1.1.pdf). In an attempt to make the Mothership Fantasy hack more heroic, players start with higher stats and saves.
+Changes to starting stats are as follows:
+- Stats are rolled as 2d10 + 30
+- Saves are rolled as 2d10 + 20
 
 ## Experience 
 
 ### Gaining Experience
 
-You gain 1 Experience(EXP) for every 1000 gp you collect from your adventures, travels, or experiences. Spending your experience requires a week or more of downtime.
+You gain XP as you collect gold from your adventures, travels, or experiences. Spending experience requires downtime and assumes the player partakes in some sort of training befitting their upgrade.
 
-- 1 EXP increase a stat by 5
-- 2 EXP gain a skill on an unlocked path or start a new path
-- 3 EXP to add +1 to your total Wounds
+- 1 XP to increase a stat or save by 5
+- 1, 2, or 3 XP to gain a skill or Trained, Expert, or Master respectively.
+
+Every 5 XP, add +1 to your total Wounds.
+
+Follow the table below to determine your gold requirements to level up. Once you've reached the total gold requirement, you gain 1 XP.
+| Level |  Gold  |
+|-------|-------|
+| 1     |   0   |
+| 2 | 1,000|
+| 3 | 2,000 |
+|4 | 4,000 |
+| 5 | 8,000 |
+| 6 | 16,000 |
+| 7 | 32,000 |
+| 8 | 64,000 |
+| 9 | 128,000|
+| 10 | 256,000|
 
 ### Taking Downtime
 
-During any downtime, you make choose to carouse the town you are safely resting in. This relieves Stress and allows you to convert Stress into improved Saves for your character. Maximum Stress converted is calculated using the settlement table below:
-| Settlement Type | Monetary Cost (gp) | Maximum Stress Converted |
-|-----------------|--------------------|--------------------------|
-| Camp            | Free               | 0                        |
-| Village         | 1d10 x 50 gp       | 1d5                      |
-| Town            | 1d10 x 100 gp      | 1d10                     |
-| City            | 1d10 x 200 gp      | 2d10                     |
+During any downtime, you make choose to carouse the town you are safely resting in. This allows you to spend gold for XP in lieu of purchasing 
+| Settlement Type | Monetary Cost (gp) |
+|-----------------|--------------------|
+| Village         | 1d10 x 50 gp       |
+| Town            | 1d10 x 100 gp      |
+| City            | 1d10 x 200 gp      |
 
-Make a Sanity Save:
-- On Success: Convert some stress into better saves. Roll the dice associated with the settlement type and add the total to your chosen saves. Relieve all stress.
-- On Critical Success: Convert the maximum stress into better saves. Add the maximum value of the settlement's die to your saves. Relieve all Stress.
-- On Fail: Do not convert any stress into saves, relieve all stress and begin at 1 Stress. 
-- On Critical Fail: Convert and relieve no Stress. Make a Panic Check.
- 
- If you failed your Downtime check, roll on the following Carousing table to determine what mishap occured:
+ When carousing, each participant rolls against their Body Save to determine how the night has treated them. On a failure, consult the Mishap table below.
 
 | d20 | Carousing Mishaps |
 |-----:|------------------|
@@ -91,7 +102,7 @@ Entity is magically under the impression that the applier is a close friend. Ent
 
 All class Stats, Saves bonuses, and Trauma responses are the same as before. Classes are merely renamed
 * Marine is now Fighter.
-* Android is now Mystic.
+* Android is now Mystic. +60 Fear Save becomes +10 Sanity and Body, -10 Fear Save.
 * Scientist is now Expert.
 * Teamster is now Traveler.
 
