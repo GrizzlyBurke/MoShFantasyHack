@@ -1,6 +1,6 @@
 # Magical Styles
 ## Spellcasting
-Gaining the affinity for any source of magic provides a cantrip that can be cast at any time and a collection of "Words of Power" you can use to augment your powers. When you gain access to magical powers, you may roll 2 x WOUNDS each morning for formulae you channel each day. To cast a spell, choose your formula, propose its effect, and select a number of d10s to sacrifice to channel the power.
+Gaining the affinity for any source of magic provides a cantrip that can be cast at any time and a collection of "Words of Power" you can use to augment your powers. When you gain access to magical powers, you may roll an amount equal to your level each morning for the formulae you channel each day. To cast a spell, choose your formula, propose its effect, and select a number of d10s to sacrifice to channel the power.
 
 Typically, effects will do one or a combination of the following:
 - deal damage equal to 4d10 x d10 HP spent on casting the effect
