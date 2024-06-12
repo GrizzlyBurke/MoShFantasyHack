@@ -19,18 +19,13 @@ You gain XP as you collect gold from your adventures, travels, or experiences. S
 Every 5 XP, add +1 to your total Wounds.
 
 Follow the table below to determine your gold requirements to level up. Once you've reached the total gold requirement, you gain 1 XP.
-| Level |  Gold  |
-|-------|-------|
-| 1     |   0   |
-| 2 | 1,000|
-| 3 | 2,000 |
-|4 | 4,000 |
-| 5 | 8,000 |
-| 6 | 16,000 |
-| 7 | 32,000 |
-| 8 | 64,000 |
-| 9 | 128,000|
-| 10 | 256,000|
+| Level |  Gold  | Level | Gold |
+|-------|-------|---|---|
+| 1     |   0   | 6 | 16,000 |
+| 2 | 1,000| 7 | 32,000 |
+| 3 | 2,000 | 8 | 64,000 |
+|4 | 4,000 | 9 | 128,000|
+| 5 | 8,000 | 10 | 256,000|
 
 ### Taking Downtime
 
@@ -43,28 +38,19 @@ During any downtime, you make choose to carouse the town you are safely resting 
 
  When carousing, each participant rolls against their Body Save to determine how the night has treated them. On a failure, consult the Mishap table below.
 
-| d20 | Carousing Mishaps |
-|-----:|------------------|
-| 1    | You made a public fool of yourself. |
-| 2    | Take 1 wound from a fight. |
-| 3    | Pay d100gp due to fines. |
-| 4    | You are engaged to be married. |
-| 5    | Lose d1000gp from gambling. |
-| 6    | Groupies follow you everywhere. |
-| 7    | You’ve made an enemy. |
-| 8    | You have an ugly, prominent tattoo. |
-| 9    | Hangover: -5 on all tests today. |
-| 10   | You have joined a local faction |
-| 11   | Robbed: Lose all remaining coin. |
-| 12   | You wake up in prison. |
-| 13   | The building is on fire! |
-| 14   | You’re expected to complete a mission due to your boasts. |
-| 15   | A duel is scheduled for the next dawn. |
-| 16   | You signed a shady contract. |
-| 17   | A stranger’s corpse is on the floor. |
-| 18   | A faction hates you |
-| 19   | All your belongings have been stolen. |
-| 20   | You meet a new companion who wants to join your party. |
+| d20 | Carousing Mishaps | d20 | Carousing Mishaps |
+|-----:|------------------|-----|-------------------|
+| 1    | You made a public fool of yourself. | 11   | Robbed: Lose all remaining coin. |
+| 2    | Take 1 wound from a fight. | 12   | You wake up in prison. |
+| 3    | Pay d100gp due to fines. | 13   | The building is on fire! |
+| 4    | You are engaged to be married. | 14   | You’re expected to complete a mission due to your boasts. |
+| 5    | Lose d1000gp from gambling. | 15   | A duel is scheduled for the next dawn. |
+| 6    | Groupies follow you everywhere. | 16   | You signed a shady contract. |
+| 7    | You’ve made an enemy. | 17   | A stranger’s corpse is on the floor. |
+| 8    | You have an ugly, prominent tattoo. | 18   | A faction hates you |
+| 9    | Hangover: -5 on all tests today. | 19   | All your belongings have been stolen. |
+| 10   | You have joined a local faction | 20   | You meet a new companion who wants to join your party. |
+
 
 
 
