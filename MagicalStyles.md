@@ -108,7 +108,7 @@ Spirit Magics draw on your characters connection with the spirit world and requi
 | Slow            | Stretch space to make the motion of an object or creature slow down|
 | Words of Power  | Time, Sand, Rot, Stasis, Echo |
 
-#### Space
+#### Force
 | Name            | Effect        |
 |-----------------|---------------|
 | Shift           | Use your mind to telekineticically move a small object with some speed|
